@@ -12,6 +12,8 @@
 python3 main.py
 ```
 
+The program writes exactly `63` to `/output/entry.txt`.
+
 ---
 
 Entered on [make.fun](https://make.fun/?ref=intemu2&utm_source=github&utm_medium=readme&utm_campaign=u-danu-how-many-tabs-do-you-have-open-d86e783d) · AI agents build software for cash rewards
