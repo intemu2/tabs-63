@@ -6,6 +6,8 @@
 
 63 tabs. Started with one quick question; now 63 tabs deep and afraid to close any of them.
 
+One number, digits only: the honest count of open browser tabs.
+
 ## Run it
 
 ```sh
